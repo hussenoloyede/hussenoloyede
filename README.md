@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0a0f1a,100:22d3ee&text=Hussein%20Oloyede&fontColor=e2e8f0&fontSize=52&fontAlignY=38&desc=Product%20Engineer%20%7C%20Design%20and%20build%2C%20end%20to%20end&descColor=e2e8f0&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="banner.svg" alt="Hussein Oloyede, Product Engineer. Design and build, end to end." width="100%"/>
 
 ### I design the screen, then build everything behind it.
 
